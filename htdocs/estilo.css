@@ -1,0 +1,146 @@
+body{
+	font-family: Arial;
+	font-size: 11px;
+	color:#2F373E;
+	line-height: 15px;
+}
+.menu{
+	font-family: "Arial";
+	font-size: 11px;
+	color:#FFFFFF;
+	vertical-align:middle;
+	right:5px;
+}
+a:link {
+	color:#702929;
+	text-decoration: none;
+}
+a:visited {
+	color:#702929;
+	text-decoration: none;
+}
+a:hover {
+	color:#990000;
+	text-decoration: underline;
+}
+a.itemactivo{
+	color:#FFFFFF;
+}
+.texto_base{
+	font-family: Arial;
+	font-size: 11px;
+	color:#2F373E;
+	line-height: 15px;
+}
+.ruta{
+	font-family: "Tahoma";
+	color:#5D718A;
+	font-size: 10px;
+}
+.ruta:link{
+	font-family: "Tahoma";
+	color:#5D718A;
+	font-size: 10px;
+}
+.ruta:visited{
+	font-family: "Tahoma";
+	color:#5D718A;
+	font-size: 10px;
+}
+.ruta:hover{
+	font-family: "Tahoma";
+	color:#30445E;
+	font-size: 10px;
+}
+.menu_item{
+	font-family: "Arial";
+	font-size: 11px;
+	color:#FFFFFF;
+}
+.menu_item:link{
+	font-family: "Arial";
+	color:#B7BED2;
+	font-size: 11px;
+}
+.menu_item:visited{
+	font-family: "Arial";
+	color:#B7BED2;
+	font-size: 11px;
+}
+.menu_item:hover{
+	font-family: "Arial";
+	color:#FFFFFF;
+	font-size: 11px;
+	text-decoration:none;
+}
+.titulo{
+	font-family: "Tahoma";
+	font-size: 17px;
+	color:#00407A;
+}
+.subtitulo1{
+	font-family: "Tahoma";
+	font-size: 11px;
+	color:#00407A;
+	text-transform:uppercase;
+	font-weight:bold;
+
+	
+}
+.subtitulo2{
+	font-family: "Tahoma";
+	font-size: 11px;
+	color:#00407A;
+	text-transform:uppercase;
+}
+.destacado{
+	color:#00407A;
+	font-size: 11px;
+}
+.conenido_link{
+	font-family: "Tahoma";
+	color:#00407A;
+	font-size: 11px;
+}
+.admin_control{
+	font-family: "Tahoma";
+	color:#00407A;
+	font-size: 11px;
+}
+.admin_titulo{
+	font-family: "Tahoma";
+	color:#FFFFFF;
+	font-size: 11px;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.cita_textual{
+	font-family: "Arial";
+	color:#2F373E;
+	font-size: 10px;
+	ITALICA!!!
+	}
+.destacado_negrita{
+	color:#00407A;
+	font-size: 11px;
+	font-weight:bold;
+}
+.boton{
+	font-family: "Trebuchet MS";
+	font-size: 11px;
+	height:22px;
+}
+.cajatexto {	
+	font-family: "Trebuchet MS";
+	font-size: 11px;
+	color:#00407A;
+	border: 1px line #00407A;
+	height:18px;
+}
+.areatexto {	
+	font-family: "Trebuchet MS";
+	font-size: 11px;
+	color:#00407A;
+	border: 1px line #730000;
+}
+
